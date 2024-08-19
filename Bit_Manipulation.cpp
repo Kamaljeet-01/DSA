@@ -2,7 +2,7 @@
 
 // Convert Decimal to Binary:    TC : log2(n)   SC : log2(n) 
 //CODE:
-
+/*
 #include <iostream>
 #include<algorithm>
 using namespace std;
@@ -25,7 +25,7 @@ int main() {
     return 0;
 }
 
-
+*/
 
 //CODE:
 
@@ -45,7 +45,8 @@ int main() {
     string res;
     cin>>res;
     int result = toDecimal(res);
-    cout<<result;
+    cout<<result<<endl;
+    cout<<"See, It Works.";
     return 0;
 }
 

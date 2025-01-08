@@ -60,3 +60,4 @@ int main() {
 //~(+ve number)  =  -(number + 1)
 //~(-ve number)  =  +(number - 1)
 
+EOF
